@@ -1,2 +1,2 @@
 # FAMA-FRENCH-3-FACTOR
-Fama French 3 Factor Model for a single stock
+The Capital Asset Pricing and Fama French 3 Factor models are used to estimate the rate of return for any stock.
